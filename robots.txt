@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taitaiphub.holliebessfordwriting.co.uk/sitemap.xml
